@@ -1,0 +1,12 @@
+= Setting Up ShareX
+This page details how to set up your ShareX app after downloading it. 
+
+== Setup
+
+Follow these instructions after downloading ShareX, either through their official website or through th Microsoft Store App. 
+
+. Look for the downloaded file. It should be in the form of an executable (.exe) file
+. Click on it and wait for the installation process to start. 
+
+
+

@@ -1,0 +1,37 @@
+= How to Capture Screenshots Using ShareX
+This page details all the different ways to capture screenshots. 
+
+image:../images/Capture.png[ShareX Capture]
+
+== FullScreen Screenshots
+. Click on Capture at the top left side of the screen to open a drop down menu +
+image:../images/Capture.png[ShareX Capture]
+. Click on full screen +
+image:../images/Full-screen-capture.png[Full Screen Capture]
+
+
+
+== Window
+. Click on Capture at the top left side of the screen to open a drop down menu +
+image:../images/Capture.png[ShareX Capture]
+. Click on Window to reveal another drop down menu
+. Select the window you would like to capture from the list +
+image:../images/Window-capture.png[Window Capture]
+
+
+== Monitor
+. Click on Capture at the top left side of the screen to open a drop down menu +
+image:../images/Capture.png[ShareX Capture]
+. Select Monitor to reveal a drop down menu
+. Click on the provided screen resolution +
+image:../images/Monitor-capture.png[Monitor Capture]
+
+
+
+== Region
+. Click on Capture at the top left side of the screen to open a drop down menu +
+image:../images/Capture.png[ShareX Capture]
+. Select Region
+. Use your cursor to select which region to capture
+image:../images/Region-capture.png[Region Capture]
+

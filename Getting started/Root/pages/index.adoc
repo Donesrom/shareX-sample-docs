@@ -1,0 +1,35 @@
+= Welcome to ShareX Documentation. 
+:author: Donesrom
+:date: 14/9/2022
+
+image:..\images\ShareX.png[ShareX image]
+
+:toc: auto
+
+:toc:
+
+== What is ShareX
+
+ShareX is a Screen Capture, file sharing and productivity tool that works on Windows +
+It is free, Lightweight, and easy to use for different projects across different professions. +
+ShareX uploads your screenshots to the cloud through their upload function. + 
+With more than 10 years of active service, ShareX comes with a ton of functionality to make your work easier.  
+
+== Disclaimer
+
+NOTE: Please note that this documentation project is in no way sponsored by ShareX or affiliated with anyone working with ShareX. +
+This is purely a project to help me work on my Documentation skills.
+
+== ToolKit
+Tools used on this project include:
+
+. AsciiDoc
+. Antora
+. Git
+. Github
+. ShareX for images
+
+== Find out more about me
+* https://donesrom.hashnode.dev/[Technical content samples]
+* Twitter: @donesrom 
+* LinkedIn: Don Esrom

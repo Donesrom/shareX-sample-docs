@@ -1,0 +1,33 @@
+= How to Record a Screen
+This page shows you how to record a screen and save the video output file.
+
+The Screen Record option helps you create video output of your actions on a screen. +
+You might want to use this options for different scenarios such as creating tutorials and showing workflows. +
+
+ShareX saves your video files in your computer and also uploads the same file to a cloud service. +
+You will, however, have to connect to your preferred cloud service provider such as Google Drive or OneDrive to upload the videos. 
+
+====
+NOTE: You could decide _not to_ connect ShareX to these third party cloud services but that does not affect the quality of the video. +
+Whether you connect to the services or not, ShareX will still record your screen and save the file in your computer. 
+====
+
+
+== Screen Recording
+
+. Click on Capture at the top left side of the screen to open a drop down menu
+. Select Screen Recording
+. Adjust the cursor to fit the region that you want to record
+. Use the Stop to stop the recording once recording start
+. Use the Abort button at the bottom of the screen to terminate the screen recording without saving it. 
+. Configure the destination of your file by connecting your ShareX app with your preferred cloud service
+
+== Screen Record GIF
+The Screen record GIF function performs the same task as the Screen record bu saves the video output as a Graphics Interchange Format (GIF).
+
+. Click on Capture at the top left side of the screen to open a drop down menu
+. Select Screen Recording
+. Adjust the cursor to fit the region that you want to record
+. Use the Stop to stop the recording once recording start
+. Use the Abort button at the bottom of the screen to terminate the screen recording without saving it 
+. Configure the destination of your file by connecting your ShareX app with your preferred cloud service
