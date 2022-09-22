@@ -6,7 +6,7 @@ ShareX gives you the option to download either the setup file (.exe) or a portab
 
 Both versions are available through their original website or through Windows store. 
 
-== Via SHareX website
+== Via ShareX website
 
 To Download ShareX through their original website:
 
