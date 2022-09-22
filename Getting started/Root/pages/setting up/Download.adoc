@@ -1,6 +1,6 @@
 = Downloading ShareX on Windows 
 
-image:../images/ShareX.png[ShareX] 
+image:images/ShareX.png[ShareX] 
 
 ShareX gives you the option to download either the setup file (.exe) or a portable version. 
 
@@ -11,10 +11,10 @@ Both versions are available through their original website or through Windows st
 To Download ShareX through their original website:
 
 . Visit https://getsharex.com/[getshareX] to access their downloadable files through Github
-. Click on Download. You will be directed tot heir gGithub page with the latest versions of ShareX +
-image:..ShareX-download.png[ShareX Download]
-. Click on the version you want from the list +
-image:../images/get-shareX.png[Latest ShareX versions]
+. Click on Download. You will be directed tot heir gGithub page with the latest versions of ShareX 
+image:images/ShareX-download.png[ShareX Download]
+. Click on the version you want from the list 
+image:images/get-shareX.png[Latest ShareX versions]
 . Wait for the download to happen
 
 
@@ -22,8 +22,12 @@ image:../images/get-shareX.png[Latest ShareX versions]
 To Download ShareX through the Microsoft Store:
 
 . Visit your Microsoft Store app
-. Search for ShareX under utilities and tools
-. Click on ShareX to reveal details. 
-. Click Get app and wait for the download to happen. 
+image:images/microsoft_store.png[Microsoft store]
+. Search for ShareX on the search tab
+image:images/.png[ShareX on Microsoft store]
+. Click on ShareX to reveal details 
+image:images/reveal_shareX.png[Reveal ShareX details]
+. Click Get app and wait for the download to happen 
+image:images/get_app.png[click Get app on Microsoft store]
 
 

@@ -5,7 +5,14 @@ This page details how to set up your ShareX app after downloading it.
 
 Follow these instructions after downloading ShareX, either through their official website or through th Microsoft Store App. 
 
-. Look for the downloaded file. It should be in the form of an executable (.exe) file
+. Look for the downloaded file. It should be in the form of an executable (.exe) file +
+.. Executable file on your Googl Chrome browser
++
+image:images/browser_shareX.png[ShareX fro your Google Chrome browser]
++
+.. Executable file from Download section
++
+image:images/shareX_download_section.png[ShareX from the download section]
 . Click on it and wait for the installation process to start. 
 
 
