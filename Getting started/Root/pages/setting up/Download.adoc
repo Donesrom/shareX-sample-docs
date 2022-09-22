@@ -24,7 +24,7 @@ To Download ShareX through the Microsoft Store:
 . Visit your Microsoft Store app
 image:images/microsoft_store.png[Microsoft store]
 . Search for ShareX on the search tab
-image:images/.png[ShareX on Microsoft store]
+image:images/shareX_microsoft_store.png[ShareX on Microsoft store]
 . Click on ShareX to reveal details 
 image:images/reveal_shareX.png[Reveal ShareX details]
 . Click Get app and wait for the download to happen 
